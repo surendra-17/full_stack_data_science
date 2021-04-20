@@ -1,0 +1,13 @@
+INFO:root:main log
+INFO:user1:this is from user1 info
+DEBUG:user2:This is from user2 debug
+INFO:root:main log
+INFO:user1:this is from user1 info
+DEBUG:user2:This is from user2 debug
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 11
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:11]
+DEBUG:parso.python.diff:parse_part from 1 to 11 (to 10 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: /home/surendra/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /home/surendra/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi

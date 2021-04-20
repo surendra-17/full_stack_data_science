@@ -1,0 +1,25 @@
+2021-04-04 16:21:29,413 - (1, 2, 3, 4)
+2021-04-04 16:22:31,662 - inside sum function
+2021-04-04 16:22:31,663 - user inputs(1, 2, 3, 4)
+2021-04-04 16:25:39,967 - inside sum function
+2021-04-04 16:25:39,968 - user inputs(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+2021-04-04 16:26:39,122 - inside sum function
+2021-04-04 16:26:39,123 - user inputs(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+2021-04-04 17:12:50,202 - This is a warning
+2021-04-04 17:12:50,203 - This is an error
+2021-04-04 17:13:00,130 - This is a warning
+2021-04-04 17:13:00,132 - This is an error
+2021-04-04 17:22:40,291 - main log
+2021-04-04 17:22:40,293 - this is from user1 info
+2021-04-04 17:23:14,384 - main log
+2021-04-04 17:23:14,386 - this is from user1 info
+2021-04-04 17:23:49,111 - main log
+2021-04-04 17:23:49,116 - this is from user1 info
+2021-04-04 17:23:55,526 - main log
+2021-04-04 17:23:55,534 - this is from user1 info
+2021-04-04 17:24:21,331 - main log
+2021-04-04 17:24:21,337 - this is from user1 info
+2021-04-04 17:24:21,344 - This is from user2 debug
+2021-04-04 17:24:44,692 - main log
+2021-04-04 17:24:44,703 - this is from user1 info
+2021-04-04 17:24:44,711 - This is from user2 debug
